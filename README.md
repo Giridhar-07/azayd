@@ -34,4 +34,4 @@ npm start
 Open http://localhost:3000 for the React frontend and http://localhost:8000 for the Django backend.
 
 
-
+Need to work on it again 
