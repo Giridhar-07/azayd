@@ -12,7 +12,7 @@ Backend: Django
 
 Getting Started
 1.Clone the repository:
-git clone https://github.com/clowno7/azayd.git  
+git clone https://github.com/Giridhar-07/azayd.git  
 cd azayd
 
 2.Setup Backend (Django):
